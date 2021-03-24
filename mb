@@ -4,7 +4,7 @@ cd $HOME
     chmod +x $PREFIX/bin/mb
 clear
 
-echo -e "\033[1;35mHORARIO QUE GERALMENTE FUNCIONA 7-12AM\033[1;35m"
+echo -e "        \033[1;35m • HORARIO QUE GERALMENTE FUNCIONA 7-12AM • \033[1;37m"
 
 echo "INFORME SEU NÚMERO (DDD+NÚMERO)"
 read NUMERO
